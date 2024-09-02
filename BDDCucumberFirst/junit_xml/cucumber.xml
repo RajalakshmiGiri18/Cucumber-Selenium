@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.208" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="Check login functionality of the holland and barret and logout functionality" name="Successful Login with Valid Credentials" time="0.031">
+<failure/>
+<system-out><![CDATA[
+Given User should Open Chrome Browser.......................................undefined
+When User should Enter Url in Browser.......................................skipped
+When User Should Navigate Home Page.........................................skipped
+And Enter UserName and Password in Edit Box.................................skipped
+And Click On Login PushButton...............................................skipped
+Then Message displayed Login Successfully...................................skipped
+Then User Should Navigate to Dashboard......................................skipped
+Then User Should Logout Holland and Barrett Application.....................skipped
+Then Message displayed Logout Successfully..................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
